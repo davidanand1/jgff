@@ -4,7 +4,7 @@ export const tabs = [
     {
         icon: 'home',
         label: 'Home',
-        dest: '/',
+        dest: '/Standings',
     },
     {
         icon: 'sports',
